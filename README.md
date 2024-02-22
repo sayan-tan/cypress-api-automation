@@ -30,7 +30,7 @@ This repository contains a Test Automation Framework built using Cypress and Jav
 1. Clone the repository:
 
    ```bash
-   git clone https://github.gamma.bcg.com/Gamma-D/cypress-api-automation-framework.git
+   git clone https://github.com/sayan-tan/cypress-api-automation.git
    ```
 
 2. Navigate to the project directory:
